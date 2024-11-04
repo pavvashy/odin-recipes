@@ -1,0 +1,21 @@
+* {
+    background-image: linear-gradient(to right, rgb(245, 231, 234), rgb(250, 241, 248));
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    align-items: center;
+    font-size: 80px;
+    color: rgb(43, 28, 35);
+    background-color: rgb(245, 220, 225);
+    width: auto;
+    height: auto;
+}
+
+ul {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(41, 37, 38);
+}

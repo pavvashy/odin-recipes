@@ -1,0 +1,65 @@
+* {
+background-image: linear-gradient(to right, rgb(245, 231, 234), rgb(250, 241, 248));
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+color: rgb(46, 16, 25);
+align-items: center;
+text-align: center;
+box-sizing: border-box;
+}
+
+.top-icons {
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    color: rgb(41, 14, 22);
+    align-items: normal;
+    text-align: left;
+}
+
+    button {
+        font-size: 20px;
+        margin: 5px;
+        font-weight: bold;
+    }
+
+img {
+    width: 200px;
+    height: 100%;
+margin: 15px;
+display: flex;
+}
+
+.tiramisu-pictures {
+    align-items: center;
+}
+
+div {
+    color: rgb(11, 2, 20);
+    flex-direction: column;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.img .ingredient-pic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tiramisu-pictures {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.ingredient-intro {
+    margin: 1px;
+}
+
+.ingredients {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: center;
+}
